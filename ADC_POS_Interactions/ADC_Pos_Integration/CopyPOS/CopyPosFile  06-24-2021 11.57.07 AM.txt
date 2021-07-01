@@ -1,1 +1,0 @@
-"CUSTOMER_CREATE", "6191111111", "6191111111", "123123", "Benson", "Jeff", "10 Boright Ave", "", "Kenilworth", "NJ", "07033", "6/19/2020", "8:00:00 AM"
