@@ -1,0 +1,7 @@
+C:\WCI\ADC\ADC_POS_Interactions\ADC_Pos_Integration\bin\Debug\ADC_Pos_Integration.exe.config
+C:\WCI\ADC\ADC_POS_Interactions\ADC_Pos_Integration\bin\Debug\ADC_Pos_Integration.exe
+C:\WCI\ADC\ADC_POS_Interactions\ADC_Pos_Integration\bin\Debug\ADC_Pos_Integration.pdb
+C:\WCI\ADC\ADC_POS_Interactions\ADC_Pos_Integration\obj\Debug\ADC_Pos_Integration.csproj.AssemblyReference.cache
+C:\WCI\ADC\ADC_POS_Interactions\ADC_Pos_Integration\obj\Debug\ADC_Pos_Integration.csproj.CoreCompileInputs.cache
+C:\WCI\ADC\ADC_POS_Interactions\ADC_Pos_Integration\obj\Debug\ADC_Pos_Integration.exe
+C:\WCI\ADC\ADC_POS_Interactions\ADC_Pos_Integration\obj\Debug\ADC_Pos_Integration.pdb
