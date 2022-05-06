@@ -29,7 +29,7 @@ namespace ADC_Pos_Integration
 
             string WcFileCopy = "CopyWCFile";
             string WcSourcePath = @"C:\POS\Print.txt"; // CHANGE FILE PATH
-            string WcTargetPath = @"C:\WCI\ADC\ADC_POS_Interactions\ADC_Pos_Integration\CopyWC\"; // CHANGE FILE PATH
+            string WcTargetPath = @"C:\"; // CHANGE FILE PATH
             string WcTime = DateTime.Now.ToString("MM-dd-yyyy h.mm.ss tt");
 
             string WcDestFile = Path.Combine(WcTargetPath, WcFileCopy + "  " + WcTime + ".txt");
